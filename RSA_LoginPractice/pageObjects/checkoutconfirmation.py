@@ -34,7 +34,7 @@ class CheckoutConfirmation:
 
     def validation(self):
         message = self.driver.find_element(*self.success_message).text
-        self.driver.save_screenshot("full_page.png")
+        # self.driver.save_screenshot("full_page.png")
         return message
 
 

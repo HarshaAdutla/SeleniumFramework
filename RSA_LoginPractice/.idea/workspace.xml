@@ -2,102 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f789633-c9d7-4abc-ac6c-47690e335cec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../PythonLearning" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonOOPs/Test9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/.idea/PythonSeleniumLearning.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/Test2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/Test3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/Test4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/Test5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/Test6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/Test7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/Test8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PythonSeleniumLearning/message.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/.idea/RobotFramework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/.idea/easycode.ignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/.idea/easycode.ignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/.idea/pythonProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/drivers/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/tests/log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/tests/output.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/tests/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/tests/resource.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/tests/testDemo1.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework 1/pythonProject/tests/testDemo2.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/.idea/RobotFramework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/POM/LandingPage.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/POM/ShopPage.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/.idea/RobotFramework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/Drivers/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/Resources/resource.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/Resources/resource2.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/tests/dummyTest.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/tests/log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/tests/output.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/tests/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/tests/testDemo1.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/tests/testDemo2.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/tests/testDemo3.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/tests/testDemo4.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/RobotFramework/tests/testDemo5.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/customLibraries/Shop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/customLibraries/ShopPage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/customLibraries/dummyFile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/tests/testDemo10.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/tests/testDemo11.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/tests/testDemo12.robot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RobotFramework/tests/testDemo13.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObjects/checkoutconfirmation.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObjects/checkoutconfirmation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,11 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="33EqonIY5MV2DNoNOZLWn3OlqPu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -120,7 +25,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/harsha/PycharmProjects/SeleniumFramework/RSA_LoginPractice"
   }
 }]]></component>
